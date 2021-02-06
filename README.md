@@ -1,1 +1,1 @@
-# OOP-blog-by-Django
+# OOP-blog-using-Django
